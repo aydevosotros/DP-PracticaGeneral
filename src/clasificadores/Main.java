@@ -1,4 +1,4 @@
-package main;
+package clasificadores;
 
 public class Main {
 
